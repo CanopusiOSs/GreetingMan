@@ -1,0 +1,16 @@
+PODS:
+  - GreetingMan (1.0.0)
+
+DEPENDENCIES:
+  - GreetingMan (from `../GreetingMan`)
+
+EXTERNAL SOURCES:
+  GreetingMan:
+    :path: "../GreetingMan"
+
+SPEC CHECKSUMS:
+  GreetingMan: 6b6cdf71da8a281fd7ecbc9dc1f7721300ecd750
+
+PODFILE CHECKSUM: 3de51aa80d7b42e5e2d0dc417501a1cf5502b5e2
+
+COCOAPODS: 1.11.3

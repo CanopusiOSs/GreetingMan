@@ -1,0 +1,20 @@
+{
+  "name": "GreetingMan",
+  "version": "1.0.0",
+  "summary": "An ugly Login page",
+  "homepage": "https://github.com/CanopusiOSs/GreetingMan.git",
+  "license": "MIT",
+  "authors": {
+    "Nirmal": "nirmal.patel@canopusinfosystems.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "git": "https://github.com/CanopusiOSs/GreetingMan.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "GreetingMan/**/*",
+  "swift_versions": "5.0.0",
+  "swift_version": "5.0.0"
+}
